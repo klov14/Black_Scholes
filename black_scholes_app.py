@@ -48,7 +48,7 @@ def generate_heatmap(option_type, strike, rf, time, spot_range, vol_range):
     return fig
 
 
-# --- Streamlit App ---
+# Streamlit App
 
 st.title("Black-Scholes Option Pricer")
 
